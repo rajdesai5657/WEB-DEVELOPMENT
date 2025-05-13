@@ -1,0 +1,14 @@
+table, th, td {
+  border: 1px solid;
+  
+  background-color:hsl(284, 48%, 64%);
+font-size: 30px;
+}
+
+td {
+  text-align: center;
+}
+body{
+    
+    background-color:hsl(0, 100%, 90%);	
+}

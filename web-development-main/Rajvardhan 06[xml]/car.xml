@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="car.xsl"?> 
+
+<car>
+    <type id="1">
+        <name>Sedan</name>
+        <brand>Toyota</brand>
+        <year>2021</year>
+        <color>Red</color>
+    </type>
+    <type id="2">
+        <name>SUV</name>
+        <brand>Ford</brand>
+        <year>2020</year>
+        <color>Blue</color>
+    </type>
+    <type id="3">
+        <name>Hatchback</name>
+        <brand>Honda</brand>
+        <year>2022</year>
+        <color>Black</color>
+    </type>
+    <type id="4">
+        <name>Coupe</name>
+        <brand>Chevrolet</brand>
+        <year>2021</year>
+        <color>White</color>
+    </type>
+    <type id="5">
+        <name>Convertible</name>
+        <brand>BMW</brand>
+        <year>2020</year>
+        <color>Yellow</color>
+    </type>
+    <type id="6">
+        <name>Sports Car</name>
+        <brand>Porsche</brand>
+        <year>2023</year>
+        <color>Silver</color>
+    </type>
+    <type id="7">
+        <name>Minivan</name>
+        <brand>Dodge</brand>
+        <year>2019</year>
+        <color>Green</color>
+    </type>
+    <type id="8">
+        <name>Pickup Truck</name>
+        <brand>Ram</brand>
+        <year>2022</year>
+        <color>Orange</color>
+    </type>
+    <type id="9">
+        <name>Wagon</name>
+        <brand>Subaru</brand>
+        <year>2021</year>
+        <color>Grey</color>
+    </type>
+    <type id="10">
+        <name>Luxury Sedan</name>
+        <brand>Mercedes-Benz</brand>
+        <year>2024</year>
+        <color>Black</color>
+    </type>
+</car>

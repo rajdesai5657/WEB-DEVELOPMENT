@@ -1,0 +1,13 @@
+input {
+  background-color: #3CBC8D;
+  color: white;
+  text-align=center;
+}
+body{
+
+  background-color: grey;
+  color: white;
+  font-size: 30px;
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}

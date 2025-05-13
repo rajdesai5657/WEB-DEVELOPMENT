@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?> 
+
+<class> 
+   <student rollno="1">
+      <firstname>sairaj</firstname> 
+      <lastname>Varute</lastname> 
+      <nickname>Sai</nickname> 
+      <marks>90</marks>
+   </student> 
+   <student rollno="2"> 
+      <firstname>Pranav</firstname> 
+      <lastname>Shelar</lastname> 
+      <nickname>shelar</nickname> 
+      <marks>70</marks>
+   </student>
+
+   <student rollno="3"> 
+      <firstname>Anurag</firstname> 
+      <lastname>Kokate</lastname> 
+      <nickname>Wagh</nickname> 
+      <marks>90</marks> 
+   </student> 
+</class>

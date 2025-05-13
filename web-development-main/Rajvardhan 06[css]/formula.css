@@ -1,0 +1,13 @@
+table, th, td {
+  border: 1px solid;
+  
+  background-color:red;
+}
+
+td {
+  text-align: center;
+}
+body{
+    text-align: center;
+    background-color:grey;	
+}

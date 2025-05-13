@@ -1,0 +1,14 @@
+body{
+background-color:DodgerBlue;
+
+}
+
+table,th,td{ 
+ border: 1px solid;
+  
+  background-color:Orange;
+}
+input {
+  border: 2px solid red;
+  border-radius: 4px;
+}

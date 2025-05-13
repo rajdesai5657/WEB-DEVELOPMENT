@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?> 
+
+
+<bookstore>
+  <book>
+    <title>Web Development</title>
+    <author>Jon Duckett</author>
+    <year>2004</year>
+    <price>600</price>
+  </book>
+  <book>
+    <title>Java</title>
+    <author>Kathy Sierra</author>
+    <year>2008</year>
+    <price>569</price>
+  </book>
+  <book>
+    <title>Data Structure</title>
+    <author>RS Salaria</author>
+    <year>2018</year>
+    <price>200</price>
+  </book>
+  <book>
+    <title>Automata Theory</title>
+    <author>John E.Hopcroft</author>
+    <year>2008</year>
+    <price>700</price>
+  </book>
+  <book>
+    <title>Data Science</title>
+    <author>Joel Grus</author>
+    <year>2019</year>
+    <price>1500</price>
+  </book>
+  <book>
+    <title>C++</title>
+    <author>Bjarne Stroustrup</author>
+    <year>2013</year>
+    <price>450</price>
+  </book>
+  <book>
+    <title>Python</title>
+    <author>Dr. Jisu Eisa Jacob</author>
+    <year>2022</year>
+    <price>399</price>
+  </book>
+  <book>
+    <title>Environmental Studies</title>
+    <author>Erach Bharucha</author>
+    <year>2013</year>
+    <price>1299</price>
+  </book>
+  <book>
+    <title>App Development</title>
+    <author>LIVRE BOOKS</author>
+    <year>2022</year>
+    <price>999</price>
+  </book>
+</bookstore>
